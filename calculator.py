@@ -7,4 +7,4 @@ def get_result(marks):
   if average>=40:
     return "PASS"
   else:
-    return "Fail"
+    return "FAIL"
